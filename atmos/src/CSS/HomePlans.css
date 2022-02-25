@@ -1,0 +1,17 @@
+/* .homePage {
+  display: flex;
+  flex-direction: column;
+} */
+
+.page {
+  margin-right: 90%;
+  margin-top: 5%;
+}
+
+.verticalLine {
+  border-left: 6px solid black;
+  height: 100%;
+  border-top: 10px;
+  position: absolute;
+  left: 10%;
+}
